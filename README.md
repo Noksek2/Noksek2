@@ -1,8 +1,13 @@
-## Hi there 👋
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noksek2)
-
-i wish normal life 
+## It's quiet here
+- C/C++
+- C#
+- Python
+- Learning Rust
+- rarely use Java, JS, PHP, Ruby, etc
+- Interested in Compiler, or Graphics API
+- I hate difficult theory
+- I don't know english so well
+- i wish normal life 
 <!--
 **Noksek2/Noksek2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
