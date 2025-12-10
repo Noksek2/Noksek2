@@ -1,9 +1,5 @@
 ## It's quiet here
 - C/C++ C# Python
-- Learning Rust
-- rarely use Java, JS, PHP, Ruby, etc
-- Interested in Compiler, Graphics API, Algorithm
-- I hate difficult theory
 - I don't know english
 - i wish normal life 
 <!--
