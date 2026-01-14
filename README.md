@@ -1,9 +1,9 @@
 ## It's quiet here
-- C/C++ C# Python
+- C/C++ C# Python (Rust)
 - I don't know english
 - Interested in PL/compiler and Graphics Engine (noob)
 - i wish normal life
-- no vibe coding, ai is for Q&A
+- dislike vibe coding, but for Q&A 
 <!--
 **Noksek2/Noksek2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
