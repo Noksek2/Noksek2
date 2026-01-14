@@ -3,7 +3,7 @@
 - I don't know english
 - Interested in PL/compiler and Graphics Engine (noob)
 - i wish normal life
-- no vibe coding
+- no vibe coding, ai is for Q&A
 <!--
 **Noksek2/Noksek2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
