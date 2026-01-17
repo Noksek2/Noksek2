@@ -1,9 +1,8 @@
 ## It's quiet here
-- C/C++ C# Python (Rust)
-- I don't know english
-- Interested in PL/compiler and Graphics Engine (noob)
+- C/C++ C# Python, ... etc(Rust)
+- Interested in PL/Compiler, Graphics Engine
 - i wish normal life
-- AI doesn't exist for vibe coding, but for learning.
+- AI doesn't exist for vibe coding, for learning.
 <!--
 **Noksek2/Noksek2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
