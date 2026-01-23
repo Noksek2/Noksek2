@@ -1,5 +1,5 @@
 ## It's quiet here
-- C/C++ C# Python, ... etc(Rust)
+- C/C++ C# Python, ... etc(Rust, x64 asm)
 - Interested in PL/Compiler, Graphics Engine
 - i wish normal life
 - AI(LLM) for learning but not for vibe coding, .
