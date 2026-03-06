@@ -1,5 +1,6 @@
 ## People are scary
-- C/C++ C# Python, ... etc(Rust, x64 asm)
+- C/C++ C# Python
+- (Rust, x64/Risc-v, Zig)
 - Interested in PL/Compiler, Graphics Engine
 - I dont want to be a vibe coder
 - thanks
