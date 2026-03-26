@@ -1,7 +1,8 @@
 ## People are scary
-- `C` `C++` `C#` `Python` : mainly
-- `Rust` `x64/Risc-v` `c3` `Zig` : learning
-- `Java` `JS` `Go` `...` : sometimes
+
+- mainly `C11` `C++17` `C#` `Python`
+- learning `Rust` `x64/Risc-v` `C3` `Zig`
+- sometimes `Java` `JS` `Go` `Ruby` `prolog` `actionscript(hobby)` 
 - Interested in PL/Compiler, Graphics Engine but beginner
 - I dont want to be a vibe coder
 - I dont know english
