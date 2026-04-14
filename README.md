@@ -5,5 +5,5 @@
 - interested in `Rust` `x64/Risc-v` `C3` `Zig`
 - Interested in PL/Compiler, Graphics Engine but beginner
 - making toy script language / compiler
-- ai agent no thanks
+- ai agent no no. just a chatbot 
 <img width="100" alt="Image" src="https://github.com/user-attachments/assets/359e3024-7501-49e7-96d5-e5958179f814" />
