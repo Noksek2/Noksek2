@@ -1,4 +1,4 @@
-## People are scary
+## Programming Beginner for 10 years
 
 - mainly `C` `C++` `Python`
 - sometimes `C#` `Java` `Rust` `JS` `etc`
