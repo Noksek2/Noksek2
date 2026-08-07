@@ -1,5 +1,4 @@
-## Programming Beginner for 10 years
-
+## Using
 - mainly `C` `C++`
 - partially `Python` `C#`, sometimes `Java` `JS` `Rust` `etc`
 
@@ -9,6 +8,6 @@
 - Language : `Go` `Crystal` `Carbon` `C3` `Zig`
 
 ## etc
-- forcing AI agent **not**
+- forcing AI agent **not** (but pull req ok)
 - Issue welcome
 <img width="100" alt="Image" src="https://github.com/user-attachments/assets/359e3024-7501-49e7-96d5-e5958179f814" />
