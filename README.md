@@ -9,7 +9,8 @@
 - Interested in Using Graphics Library (D2D/DX11) 
 
 ## etc
-- forcing AI agent no
-- i hate vibe coding
+- AI is ok
+- But forcing AI agent no
+- vibe coding no
 - Issue welcome
 <img width="100" alt="Image" src="https://github.com/user-attachments/assets/359e3024-7501-49e7-96d5-e5958179f814" />
