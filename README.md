@@ -1,3 +1,5 @@
+# Times are strange.
+
 ## Using
 - mainly `C` `C++`
 - partially `Python` `C#`, `Rust` maybe good lang
@@ -8,6 +10,7 @@
 
 ## etc
 - i do not prefer ai code
+
 - i believe Coding ⊂ Programming ⊂ Developing 
 - Issue welcome
 <img width="100" alt="Image" src="https://github.com/user-attachments/assets/359e3024-7501-49e7-96d5-e5958179f814" />
