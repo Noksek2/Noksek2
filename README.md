@@ -14,7 +14,6 @@
 
 ## etc
 My goal is to be self-sufficient without agents or tools.
-Until then, I'll need a tool's help. 
 
 
 - [**Nok Project**](https://github.com/Noksek2/nok_project_repo)
