@@ -11,6 +11,7 @@
 - system programming 
 - making semi-toy compiler/interpreter project
 - GUI programming with graphic engine
+- from scratch in my own way
 
 ## etc
 My goal is to be self-sufficient without agents or tools.
