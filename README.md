@@ -12,6 +12,7 @@
 - making semi-toy compiler/interpreter project
 - GUI programming with graphic engine
 - from scratch in my own way
+- building microcosmic system
 
 ## etc
 My goal is to be self-sufficient without agents or tools.
