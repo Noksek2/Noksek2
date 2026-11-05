@@ -1,22 +1,22 @@
 
-### maybe hi
-*Times are strange.*
+### unwelcome ai school
+*Times are sheet.*
 
 ## Using
 - mainly `C` `C++`
 - Sometimes Python C#
-- i believe Coding ⊂ Programming ⊂ Developing 
+- i like Coding ⊂ Programming ⊂ Developing
 
 ## Interest
-- system programming 
-- making semi-toy compiler/interpreter project
-- GUI programming with graphic engine
-- from scratch in my own way
+- system programming slop
+- making semi-toy compiler/interpreter
+- GUI programming, graphic engine
+- from scratch in any way
 - building microcosmic system
+- not yet
 
 ## etc
-My goal is to be self-sufficient without agents or tools.
-
+His goal is to be self-sufficient without agents or tools. nofun impressing in agent
 
 - [**Nok Project**](https://github.com/Noksek2/nok_project_repo)
 - [**ClawnCodeRepo**](https://github.com/Noksek2/ClawnCodeRepo)
@@ -24,4 +24,4 @@ My goal is to be self-sufficient without agents or tools.
 <img width="100" alt="Image" src="https://github.com/user-attachments/assets/359e3024-7501-49e7-96d5-e5958179f814" />
 
 
-*2026/09/28*
+*2026/11/05*
