@@ -16,7 +16,7 @@
 - not yet
 
 ## etc
-His goal is to be self-sufficient without agents or tools. nofun impressing in agent
+His goal is to be self-sufficient without agents or tools. dev without code be nofun 
 
 - [**Nok Project**](https://github.com/Noksek2/nok_project_repo)
 - [**ClawnCodeRepo**](https://github.com/Noksek2/ClawnCodeRepo)
