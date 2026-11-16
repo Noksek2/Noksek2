@@ -19,6 +19,8 @@ be self-sufficient without agents or tools is my goal.
 - [**Nok Project**](https://github.com/Noksek2/nok_project_repo)
 - [**ClawnCodeRepo**](https://github.com/Noksek2/ClawnCodeRepo)
 
+- Some projects are on Codeberg.
+
 <img width="100" alt="Image" src="https://github.com/user-attachments/assets/359e3024-7501-49e7-96d5-e5958179f814" />
 
 bye
