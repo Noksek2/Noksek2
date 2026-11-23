@@ -1,6 +1,5 @@
-
-### unwelcome ai school
-I miss the days when I enjoyed programming
+### unwelcome llm school
+the day when someone enjoyed programming
 
 ## Using
 - mainly `C` `C++`
@@ -13,6 +12,7 @@ I miss the days when I enjoyed programming
 - making semi-toy compiler/interpreter
 - GUI programming, graphic engine
 - somedays building microcosmic system, not yet
+- reject bloated software
 
 ## etc
 be self-sufficient without agents or tools is my goal. 
