@@ -18,7 +18,8 @@ the day when someone enjoyed programming
 - following trend is convenient, but we also need to observe the problems it brings.
 
 ## etc
-be self-sufficient 
+be self-sufficient is my hobby
+- [**repo intro**](https://github.com/Noksek2/repo_intro)
 - [**Nok Project**](https://github.com/Noksek2/nok_project_repo)
 - [**ClawnCodeRepo**](https://github.com/Noksek2/ClawnCodeRepo)
 
