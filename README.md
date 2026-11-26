@@ -14,8 +14,11 @@ the day when someone enjoyed programming
 - somedays building microcosmic system, not yet
 - reject bloated software
 
+## about tech
+- following trend is convenient, but we also need to observe the problems it brings.
+
 ## etc
-be self-sufficient without agents or tools is my goal. 
+be self-sufficient 
 - [**Nok Project**](https://github.com/Noksek2/nok_project_repo)
 - [**ClawnCodeRepo**](https://github.com/Noksek2/ClawnCodeRepo)
 
@@ -23,5 +26,6 @@ be self-sufficient without agents or tools is my goal.
 
 <img width="100" alt="Image" src="https://github.com/user-attachments/assets/359e3024-7501-49e7-96d5-e5958179f814" />
 
-bye
-*2026/11/16*
+- bye
+- May the programmer be blessed
+*2026/11/26*
